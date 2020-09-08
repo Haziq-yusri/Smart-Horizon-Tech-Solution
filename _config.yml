@@ -8,10 +8,10 @@ plugins:
   - jekyll-sitemap
 
 # Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
+#defaults:
+#  - scope:
+#      path: '_pages'
+#    values:
 #      permalink: /:basename:output_ext
 
 include:
