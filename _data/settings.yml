@@ -11,10 +11,10 @@ address: No 111, Jalan TTJS 3/7 Taman Tuanku Jaafar, Seremban, Negeri Sembilan, 
 copyright: Copyright &copy; 2020 Designed by [Hazacker-IQ](https://www.facebook.com/mohdhaziq.ahmadyusri) & Developed by using [Jekyll Theme](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/Smart-Horizon-Tech-Solution/about/'}
+- {name: Blog, link: '/Smart-Horizon-Tech-Solution/blog/'}
+- {name: Portfolio, link: '/Smart-Horizon-Tech-Solution/portfolio/'}
+- {name: Contact, link: '/Smart-Horizon-Tech-Solution/contact/'}
 
 
 #-------------------------------
