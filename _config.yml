@@ -11,8 +11,8 @@ plugins:
 defaults:
   - scope:
       path: '_pages'
-#    values:
-#      permalink: /:basename:output_ext
+    values:
+      permalink: /Smart-Horizon-Tech-Solution/:basename:output_ext
 
 include:
   - _pages
